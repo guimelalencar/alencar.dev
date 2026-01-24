@@ -3,16 +3,10 @@ title: Documentation
 next: first-page
 ---
 
-This is a demo of the theme's documentation layout.
+Made with [Hextra](https://imfing.github.io/hextra/) using [Hextra Getting started guide](https://imfing.github.io/hextra/docs/getting-started/).
 
-## Hello, World!
+[Hextra docs](https://imfing.github.io/hextra/docs/).
 
-```go {filename="main.go"}
-package main
+[Heriocon Icons](https://v1.heroicons.com/).
 
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+[Hugo Docs](https://gohugo.io/documentation/).
