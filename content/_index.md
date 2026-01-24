@@ -23,6 +23,5 @@ Welcome to GESandbox, my personal blog.
 ## Bible Studies
 
 {{< cards >}}
-  {{< card link="test_1" title="Test 1" icon="bookmark" >}}
-  {{< card link="test_2" title="Test 2" icon="bookmark" >}}
+  {{< card link="bible_studies/o_sermao_da_montanha" title="O sermão da montanha" icon="bookmark" >}}
 {{< /cards >}}
