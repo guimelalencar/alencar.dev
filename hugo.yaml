@@ -11,7 +11,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
   # enable hextra syntax highlight
   highlight:
     noClasses: false
@@ -46,11 +45,22 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
-
+  
   footer:
     displayCopyright: false
     displayPoweredBy: true
-
+  
   editURL:
     enable: true
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+  
+  # Configuração do sistema de comentários
+  comments:
+    enable: true
+    type: giscus
+    
+    giscus:
+      repo: "GuimelAlencar/my_blog"
+      repoId: "R_kgDORAbbWQ"
+      category: "Blog Posts"
+      categoryId: "DIC_kwDORAbbWc4C1X_t"
