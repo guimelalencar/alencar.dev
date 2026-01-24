@@ -1,5 +1,5 @@
 # Hugo configuration file 
-title: My Site
+title: GASandbox
 
 # import hextra as module
 module:
@@ -17,29 +17,21 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
     - name: About
       pageRef: /about
-      weight: 2
+      weight: 1
     - name: Contact ↗
-      url: "https://github.com/imfing"
-      weight: 3
+      url: "https://github.com/GuimelAlencar"
+      weight: 2
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
     - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      weight: 4
+      url: "https://github.com/GuimelAlencar"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
